@@ -26,3 +26,22 @@
 
 ---
 
+<img alt="image" src="hw3/Pasted image 20260506130745.png" />
+<img alt="image" src="hw3/Pasted image 20260506130757.png" />
+<img alt="image" src="hw3/Pasted image 20260506131101.png" />
+<img alt="image" src="hw3/Pasted image 20260506131216.png" />
+
+---
+
+<img alt="image" src="hw4/Pasted image 20260506131256.png" />
+<img alt="image" src="hw4/Pasted image 20260506131320.png" />
+<img alt="image" src="hw4/Pasted image 20260506131331.png" />
+
+---
+
+<img alt="image" src="hw5/Pasted image 20260506131355.png" />
+<img alt="image" src="hw5/Pasted image 20260506131413.png" />
+
+---
+
+<img alt="image" src="hw6/Pasted image 20260506131508.png" />
